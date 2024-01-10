@@ -1,7 +1,3 @@
-To complete your README file, I'll fill in the missing information based on standard practices for Python projects. Since I don't have specific details about your project's database setup or any specific tests you might have implemented or skipped, I'll include generic placeholders and instructions. You should replace these with your actual details.
-
----
-
 # LAB - Class 01
 
 ## Project: Snake Cafe
